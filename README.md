@@ -15,16 +15,27 @@ By this management system, it will easier for a parent and a teacher to be in to
 
 
 1.3 Key Features of School management system
+
 	Multi-User Account System
+
 	Responsive User Interface
+
 	Student Fee Management
+
 	Profile System
+
 	Exam Marks Management
+
 	Analysis of Exams
-	Teacher Management 
+
+	Teacher Management
+
 	Student Management
+
 	Daily Attendance
+
 	New Registration
+
 
 
 
