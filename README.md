@@ -33,6 +33,8 @@ By this management system, it will easier for a parent and a teacher to be in to
 
 
 TECHNOLOGY USED
+
+
 2.1 Language Used
 The frontend of the project is made by using HTML, CSS and Bootstrap.
 For the backend we have used PHP, JavaScript and MYSQL. 
